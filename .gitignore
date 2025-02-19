@@ -1,0 +1,8 @@
+.venv/
+.ropeproject/
+.env
+__pycache__
+pyrightconfig.json
+*.pptx
+*.jpg
+*.png
